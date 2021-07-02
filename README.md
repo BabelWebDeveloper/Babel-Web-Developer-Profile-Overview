@@ -8,10 +8,16 @@
 
 ### Languages:
 
-|<img alt="HTML" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/html.png"/>|
-<img alt="CSS" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/css.png"/>
+<table>
+<tr>
+    <td>
+        <img alt="HTML" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/html.png"/>
+    </td>
+    <td>
+        <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/css.png"/>
+    </td>
+</table>
 
 ### Tools:
 
-|<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/vsc.jpg"/>|<img alt="Figma" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/figma.png"/>
-
+|<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/vsc.jpg"/>|<img alt="Figma" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/figma.png"/>|
