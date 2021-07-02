@@ -2,7 +2,7 @@
 
 - 💼 I am currently participating in the FreeCodeCamp course.
 - 💾 I’m currently learning HTML5 & CSS3.
-- 🎯 2020 : Reach a high level of CSS and start a JS course.
+- 🎯 2021 : Reach a high level of CSS and start a JS course.
 - ⚡ Facts: I like doing sport especially kettlebell training and playing on my PS4.
 
 ### Languages:
