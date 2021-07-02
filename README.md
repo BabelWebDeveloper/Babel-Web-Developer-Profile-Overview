@@ -20,4 +20,12 @@
 
 ### Tools:
 
-|<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/vsc.jpg"/>|<img alt="Figma" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/figma.png"/>|
+<table>
+<tr>
+    <td>
+        <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/vsc.jpg"/>
+    </td>
+    <td>
+        <img alt="Figma" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/figma.png"/>
+    </td>
+</tr>
