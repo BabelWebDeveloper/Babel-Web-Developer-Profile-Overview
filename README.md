@@ -3,7 +3,7 @@
 - 💼 I am currently participating in the FreeCodeCamp course.
 - 💾 I’m currently learning HTML5 & CSS3.
 - 🎯 2021 : Reach a high level of CSS and start a JS course.
-- ⚡ Facts: I like doing sport especially kettlebell training and playing on my PS4.
+- ⚡ Facts: I like doing sport especially kettlebell training and playing on my PS4. Formore I'm interested in online Forex & Commodities trading.
 
 ### Languages:
 
