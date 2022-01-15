@@ -25,9 +25,9 @@
 <table>
 <tr>
     <td>
-        <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/vsc.jpg"/>
+        <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/visual-studio-codeGIMP.png"/>
     </td>
     <td>
-        <img alt="Figma" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/figma.png"/>
+        <img alt="Figma" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/figmaGimp.png"/>
     </td>
 </tr>
