@@ -15,6 +15,9 @@
     <td>
         <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/css.png"/>
     </td>
+    <td>
+        <img alt="CSS" width="26px" src="https://raw.githubusercontent.com/BabelWebDeveloper/BabelWebDeveloper/master/img/js288.png"/>
+    </td>
 </table>
 
 ### Tools:
