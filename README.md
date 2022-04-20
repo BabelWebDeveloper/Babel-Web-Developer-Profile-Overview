@@ -1,8 +1,8 @@
 ### Hi there, I'm Przemek Bąbel - BabelWebDeveloper
 
--- 💼 I am currently participating in the FreeCodeCamp course and working on my JavaScript Code Camp project.
+-- 💼 I am currently participating in the FreeCodeCamp course and working on my JavaScript Code Camp project.\
 -- 💾 I’m currently learning JavaScript.\
--- 🎯 2022 : Start working as a Junior Salesforce Developer.
+-- 🎯 2022 : Start working as a Junior Salesforce Developer.\
 -- ⚡ Facts: I like doing sport especially kettlebell training and playing on my PS4. Formore I'm interested in online Forex & Commodities trading.
 
 ### Languages:
